@@ -7,7 +7,7 @@
 // @icon         https://em-content.zobj.net/source/apple/325/high-voltage_26a1.png
 // @grant        none
 // ==/UserScript==
-var Version = "1.0.25"
+var Version = "1.0"
 
 // Add Google Fonts Inter
 const fontLink = document.createElement("link")
