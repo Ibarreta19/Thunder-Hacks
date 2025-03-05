@@ -1,4 +1,4 @@
-    // ==UserScript==
+// ==UserScript==
 // @name         Thunder hacks (made by: @p.ibarreta on IG)
 // @version      1.0
 // @description  The best Kahoot hack
@@ -342,7 +342,18 @@ document.body.appendChild(uiElement)
 let isDragging = false
 let offsetX, offsetY
 
-handle.addEventListener("mousedown", (e) => {
+// Modificación: Hacer que toda la ventana sea arrastrable
+uiElement.addEventListener("mousedown", (e) => {
+  // No interferir con elementos interactivos
+  if (
+    e.target.tagName === "INPUT" ||
+    e.target.tagName === "BUTTON" ||
+    e.target.className === "checkmark" ||
+    e.target.className === "custom-checkbox"
+  ) {
+    return
+  }
+
   isDragging = true
   offsetX = e.clientX - uiElement.getBoundingClientRect().left
   offsetY = e.clientY - uiElement.getBoundingClientRect().top
