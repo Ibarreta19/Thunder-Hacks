@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Thunder hacks (made by: @p.ibarreta on IG)
+// @name         ThunderCheat (made by: @p.ibarreta on IG)
 // @version      1.0
 // @description  The best Kahoot hack
 // @author       @p.ibarreta - https://www.instagram.com/p.ibarreta/
@@ -125,7 +125,7 @@ handle.className = "handle"
 handle.style.fontFamily = "'Inter', sans-serif"
 handle.style.fontSize = "12px"
 handle.style.fontWeight = "500"
-handle.textContent = "⚡ ThunderCheats v1.0 (made by: @p.ibarreta on IG)"
+handle.textContent = "⚡ ThunderCheat v1.0 (made by: @p.ibarreta on IG)"
 handle.style.color = "white"
 handle.style.width = "100%"
 handle.style.height = "30px"
