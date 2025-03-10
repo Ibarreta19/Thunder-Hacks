@@ -1,0 +1,11 @@
+Estoy desarrollando la extensión para la chrome store. Pero si quieres usar ya el hack necesitas seguir estos pasos:
+
+Paso 1: Busca e instala en google la extension de tampermonkey ------> https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=es
+
+Paso 2: Copia el codigo que esta en este enlace (https://github.com/Ibarreta19/ThunderKahoot/blob/main/ThunderKahoot.js) y pegalo dentro de aqui (chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=new-user-script+editor) 
+y remplaza el codigo que ya existe por el que has copiado.
+
+Paso 3: Ve a este enlace chrome://extensions/ y revisa en la esquina superior derecha que la opcion de Modo Desarrollador está activada.
+
+Paso 4: Ve a kahoot y revisa que el menu de los hacks funciona correctamente, si no es así revisa otra vez los pasos anteriores por si te has saltado alguno y si sigue sin aparecer mandame un dm a mi instagram @p.ibarreta
+y te contesto de inmediato.
