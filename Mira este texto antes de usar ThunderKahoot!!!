@@ -18,3 +18,8 @@ Paso 4:
 Ve a Kahoot y verifica que el menú de hacks funcione correctamente.
 
 Si no aparece, revisa los pasos anteriores para asegurarte de que no te saltaste nada. Si sigues teniendo problemas, envíame un DM en Instagram 📩 @p.ibarreta y te responderé de inmediato.
+
+El Quiz ID no es el PIN del juego. Para encontrarlo, ve a la pantalla del profesor y revisa la barra de direcciones del navegador cuando el juego esté abierto. Normalmente, verás una URL como esta:
+https://play.kahoot.it/v2/gameblock?quizId=cfcc4e0b-229d-4e0e-8f48-3899abb421be
+
+Asegúrate de copiar el código que aparece después de quizId=
