@@ -1,10 +1,20 @@
-Estoy desarrollando la extensión para la chrome store. Pero si quieres usar ya el hack necesitas seguir estos pasos:
+Estoy desarrollando la extensión para la Chrome Web Store, pero si quieres usar el hack ahora mismo, sigue estos pasos:
 
-Paso 1: Busca e instala en google la extension de tampermonkey ------> https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=es
+Paso 1:
+Instala la extensión Tampermonkey desde la Chrome Web Store:
+👉 https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=es
 
-Paso 2: Copia el codigo que esta en este enlace (https://github.com/Ibarreta19/ThunderKahoot/blob/main/ThunderKahoot.js) y pegalo dentro de aqui remplazando el que ya esta denro al acceder a este enlace (chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=new-user-script+editor)
+Paso 2:
+Copia el código de este enlace:
+🔗 https://github.com/Ibarreta19/ThunderKahoot/blob/main/ThunderKahoot.js
 
-Paso 3: Ve a este enlace chrome://extensions/ y revisa en la esquina superior derecha que la opcion de Modo Desarrollador está activada.
+Luego, pégalo dentro del editor de scripts de Tampermonkey, reemplazando el código existente. Para acceder al editor, abre este enlace en tu navegador:
+🔗 chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=new-user-script+editor
 
-Paso 4: Ve a kahoot y revisa que el menu de los hacks funciona correctamente, si no es así revisa otra vez los pasos anteriores por si te has saltado alguno y si sigue sin aparecer mandame un dm a mi instagram @p.ibarreta
-y te contesto de inmediato.
+Paso 3:
+Abre chrome://extensions/ en tu navegador y asegúrate de que la opción Modo Desarrollador (ubicada en la esquina superior derecha) está activada.
+
+Paso 4:
+Ve a Kahoot y verifica que el menú de hacks funcione correctamente.
+
+Si no aparece, revisa los pasos anteriores para asegurarte de que no te saltaste nada. Si sigues teniendo problemas, envíame un DM en Instagram 📩 @p.ibarreta y te responderé de inmediato.
